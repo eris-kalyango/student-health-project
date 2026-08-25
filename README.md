@@ -7,10 +7,10 @@ Explore factors related to student health.
 Identify patterns and relationships in the data.
 Create visualizations to communicate findings.
 ## Tools Used
-Python
-Pandas
-Matplotlib
-Seaborn
+Python,
+Pandas,
+Matplotlib,
+Seaborn,
 Jupyter Notebook
 ## Dataset
 The dataset contains information about students' social media usage and health-related factors.
